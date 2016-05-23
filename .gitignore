@@ -1,0 +1,10 @@
+# Ide
+.idea
+iceland.iml
+
+#
+node_modules
+
+# typescript
+project/src/*.js
+project/src/*.map

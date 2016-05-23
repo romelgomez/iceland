@@ -1,0 +1,11 @@
+{
+  "files": [
+    "public/static/assets/scripts/main.ts",
+    "public/static/assets/scripts/greet.ts"
+  ],
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "target": "es5",
+    "module": "commonjs"
+  }
+}
